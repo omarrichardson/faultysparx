@@ -5,9 +5,9 @@
     }
     
     header {
-        height: 450px;
+        height: 500px;
         background: #ccc;
-        background-image: url(../images/bridge.jpeg);
+        background-image: url(../images/main-image.jpeg);
         background-size: cover;
         background-position: center;
     }
@@ -57,6 +57,11 @@
         -webkit-box-shadow: -1px 2px 5px 3px rgba(0, 0, 0, 0.75);
         -moz-box-shadow: -1px 2px 5px 3px rgba(0, 0, 0, 0.75);
         box-shadow: -1px 2px 5px 3px rgba(0, 0, 0, 0.75);
+    }
+    
+    .main-content {
+        height: 500px;
+        background-color: #ccc;
     }
     
     .kicker {
